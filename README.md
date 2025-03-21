@@ -60,19 +60,26 @@ Historical order data is displayed on the frontend, providing users with a perso
 **Frontend:** 
 - React: A JavaScript library for building user interfaces.
 - React Router Dom: For handling client-side routing in React applications.
- **Backend:** 
+  
+**Backend:** 
 - Node.js: A JavaScript runtime for server-side development.
 - Express.js: A web application framework for Node.js, simplifying the creation of robust APIs.
+  
 **Database (MongoDB):** 
 - MongoDB: A NoSQL database, providing a flexible and scalable data storage solution.
+  
 **Server-Side Framework (Express):** 
 - Express.js: A minimalist and flexible Node.js web application framework used for building APIs and web applications.
+  
 **Database ORM (Mongoose):** 
 - Mongoose: An ODM (Object Data Modeling) library for MongoDB and Node.js, providing a schema-based solution for modeling application data.
+  
 **Version Control:** 
 - Git: A distributed version control system for tracking changes in source code during software development.
+  
 **Package Manager:** 
 - npm (Node Package Manager): A package manager for Node.js packages and modules.
+  
 **Code Editor:**
 - Visual Studio Code (VS Code): A lightweight and powerful code editor.
 
